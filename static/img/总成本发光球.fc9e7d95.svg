@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="140.000244140625" height="140" viewBox="0 0 140.000244140625 140" fill="none">
+<path d="M69.9997 0C108.598 0 140 31.4016 140 70.0003C140 108.598 108.598 140 69.9997 140C31.4011 140 0 108.598 0 70.0003C0 31.4016 31.4011 0 69.9997 0ZM137.764 70.0003C137.764 107.361 107.365 137.757 69.9994 137.757C32.634 137.757 2.2354 107.361 2.2354 70.0003C2.2354 32.6392 32.634 2.2432 69.9994 2.2432C107.365 2.2432 137.764 32.6392 137.764 70.0003Z" fill-rule="evenodd"  fill="#737AFF" >
+</path>
+<ellipse cx="70.1641845703125" cy="70.19216918945312" rx="62.2398681640625" ry="62.243927001953125"   fill="url(#linear_fill_57_1273)" >
+</ellipse>
+<defs>
+<radialGradient id="linear_fill_57_1273" cx="0" cy="0" r="1" gradientTransform="translate(70.16421424859436 70.19212466912722) rotate(90) scale(-62.23983477600734, 62.2398570347068)" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#01224E" stop-opacity="0" />
+<stop offset="0.5391620397567749" stop-color="#48607F" stop-opacity="0.0627" />
+<stop offset="0.9413408041000366" stop-color="#118CE1" stop-opacity="0.5412" />
+<stop offset="1" stop-color="#009AFF" stop-opacity="0.6" />
+</radialGradient>
+</defs>
+</svg>

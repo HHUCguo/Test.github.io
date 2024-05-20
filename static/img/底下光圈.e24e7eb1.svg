@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="329" height="97" viewBox="0 0 329 97" fill="none">
+<ellipse cx="164.50057983398438" cy="49.99968719482422" rx="161.46493530273438" ry="43.96550750732422"   fill="url(#linear_fill_57_1050)" >
+</ellipse>
+<path d="M323.116 34.219C327.223 38.5493 329.197 43.1086 328.984 47.7705C327.792 73.829 255.975 93.9984 165.004 94C164.147 94 163.299 93.9984 162.439 93.9955C89.0875 93.6911 24.7092 79.6218 5.88376 59.7796C1.77626 55.4495 -0.197435 50.8914 0.0155673 46.2284C1.22021 19.9262 74.4039 -0.345454 166.561 0.00446209C239.915 0.308841 304.292 14.3783 323.116 34.219ZM10.7275 59.4233C28.6118 77.6849 91.0137 90.6407 162.479 90.9268C248.412 91.2934 321.871 72.7836 322.921 50.5513C323.077 47.2401 321.514 43.8854 318.273 40.5756C300.391 22.314 237.988 9.35945 166.521 9.07337C165.734 9.07066 164.936 9.0693 164.15 9.0693C79.2499 9.0693 7.12221 27.421 6.07847 49.4488C5.92281 52.7587 7.48703 56.115 10.7275 59.4233Z" fill-rule="evenodd"  fill="url(#linear_fill_57_1051)" >
+</path>
+<defs>
+<linearGradient id="linear_fill_57_1050" x1="164.5005124655636" y1="82.43979721958294" x2="164.5005124655636" y2="26.912262203356477" gradientUnits="userSpaceOnUse">
+<stop offset="0.04754146561026573" stop-color="#2F589C" stop-opacity="0.6" />
+<stop offset="1" stop-color="#223461" stop-opacity="0" />
+</linearGradient>
+<linearGradient id="linear_fill_57_1051" x1="164.49951171875" y1="94.00048828125" x2="164.49951171875" y2="0.00048828125" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#177FFF"  />
+<stop offset="0.032544929534196854" stop-color="#167DFA" stop-opacity="0.9647" />
+<stop offset="0.08670675754547119" stop-color="#1479EF" stop-opacity="0.8745" />
+<stop offset="0.15579292178153992" stop-color="#1172DD" stop-opacity="0.7216" />
+<stop offset="0.2371309995651245" stop-color="#0D69C3" stop-opacity="0.5137" />
+<stop offset="0.32778429985046387" stop-color="#075DA3" stop-opacity="0.2471" />
+<stop offset="0.35474860668182373" stop-color="#065A99" stop-opacity="0.1647" />
+<stop offset="0.9943820238113403" stop-color="#005B97" stop-opacity="0" />
+</linearGradient>
+</defs>
+</svg>
